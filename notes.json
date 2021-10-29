@@ -1,0 +1,10 @@
+{
+  "position_id": {
+    "1": "quaterback",
+    "2": "runningback",
+    "3": "widereceiver",
+    "4": "tightend",
+    "5": "kicker",
+    "16": "defense"
+  }
+}

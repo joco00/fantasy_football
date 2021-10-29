@@ -2,7 +2,7 @@ import json
 import pandas as pd
 import matplotlib as plt
 
-from espn_api import api_handle
+from espn_api import api_handle, save_data
 
 
 # df = [[
@@ -13,6 +13,16 @@ from espn_api import api_handle
 # df = pd.DataFrame(df, columns=['Week', 'Team1', 'Score1', 'Team2', 'Score2'])
 # df['Type'] = ['Regular' if w<=14 else 'Playoff' for w in df['Week']]
 # df.head()
+
+
+def main2():
+    api = api_handle()
+    url = f"{api.url}"
+    params = {"view": "mMatchupScore"}
+    data = api.make_request(url, params)
+    save_data("data7", data)
+
+    print(data)
 
 
 def main():
@@ -61,4 +71,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main2()

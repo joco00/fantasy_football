@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 
-*.json
+
 sensitive_info.json
