@@ -41,7 +41,7 @@ class api_handle:
 
 
 def save_data(file_name, data):
-    with open(f"{file_name}.json", "w") as f:
+    with open(f"data/{file_name}.json", "w") as f:
         f.write(json.dumps(data))
 
 
