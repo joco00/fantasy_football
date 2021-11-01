@@ -1,0 +1,40 @@
+{
+  "draftDetail": { "drafted": true, "inProgress": false },
+  "gameId": 1,
+  "id": 684262176,
+  "scoringPeriodId": 8,
+  "seasonId": 2021,
+  "segmentId": 0,
+  "status": {
+    "activatedDate": 1627579435175,
+    "createdAsLeagueType": 3,
+    "currentLeagueType": 0,
+    "currentMatchupPeriod": 8,
+    "finalScoringPeriod": 17,
+    "firstScoringPeriod": 1,
+    "isActive": true,
+    "isExpired": false,
+    "isFull": true,
+    "isPlayoffMatchupEdited": false,
+    "isToBeDeleted": false,
+    "isViewable": false,
+    "isWaiverOrderEdited": false,
+    "latestScoringPeriod": 8,
+    "previousSeasons": [],
+    "standingsUpdateDate": 1635753039479,
+    "teamsJoined": 10,
+    "transactionScoringPeriod": 8,
+    "waiverLastExecutionDate": 1635753039401,
+    "waiverProcessStatus": {
+      "2021-09-09T07:18:08.924+0000": 1,
+      "2021-09-15T07:51:28.734+0000": 3,
+      "2021-09-22T07:04:27.801+0000": 3,
+      "2021-09-29T07:33:47.053+0000": 4,
+      "2021-10-06T08:05:09.400+0000": 6,
+      "2021-10-08T07:23:40.473+0000": 1,
+      "2021-10-13T08:06:44.431+0000": 8,
+      "2021-10-20T08:26:40.526+0000": 6,
+      "2021-10-27T07:36:13.262+0000": 5
+    }
+  }
+}

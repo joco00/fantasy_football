@@ -1,0 +1,712 @@
+{
+  "draftDetail": { "drafted": true, "inProgress": false },
+  "gameId": 1,
+  "id": 684262176,
+  "schedule": [
+    {
+      "away": {
+        "cumulativeScore": {
+          "losses": 0,
+          "scoreByStat": {
+            "128": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "129": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "130": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "3": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 270.0
+            },
+            "131": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "4": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 1.0
+            },
+            "133": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "134": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "198": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "135": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "72": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 1.0
+            },
+            "136": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "201": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "77": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 2.0
+            },
+            "206": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "80": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "209": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "19": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "20": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "85": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "86": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 3.0
+            },
+            "24": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 248.0
+            },
+            "25": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 2.0
+            },
+            "89": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "26": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "90": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "91": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "92": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 1.0
+            },
+            "93": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "95": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "96": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 2.0
+            },
+            "97": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "98": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "99": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 1.0
+            },
+            "101": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "102": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "103": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "104": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "42": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 222.0
+            },
+            "43": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 2.0
+            },
+            "44": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "53": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 25.0
+            },
+            "123": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "124": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "125": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "63": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            }
+          },
+          "statBySlot": null,
+          "ties": 0,
+          "wins": 0
+        },
+        "gamesPlayed": 0,
+        "pointsByScoringPeriod": { "1": 125.8 },
+        "teamId": 8,
+        "totalPoints": 125.8
+      },
+      "home": {
+        "cumulativeScore": {
+          "losses": 0,
+          "scoreByStat": {
+            "128": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "129": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "130": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "3": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 254.0
+            },
+            "131": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "4": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 4.0
+            },
+            "133": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "134": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 1.0
+            },
+            "198": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "135": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "72": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 1.0
+            },
+            "136": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "201": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "77": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "206": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "80": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 2.0
+            },
+            "209": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "19": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "20": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "85": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "86": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "24": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 166.0
+            },
+            "25": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 2.0
+            },
+            "89": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "26": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 1.0
+            },
+            "90": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "91": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "92": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "93": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "95": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 1.0
+            },
+            "96": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "97": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "98": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "99": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 3.0
+            },
+            "101": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "102": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "103": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "104": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "42": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 266.0
+            },
+            "43": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 3.0
+            },
+            "44": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "53": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 22.0
+            },
+            "123": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 1.0
+            },
+            "124": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "125": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            },
+            "63": {
+              "ineligible": false,
+              "rank": 0.0,
+              "result": null,
+              "score": 0.0
+            }
+          },
+          "statBySlot": null,
+          "ties": 0,
+          "wins": 0
+        },
+        "gamesPlayed": 0,
+        "pointsByScoringPeriod": { "1": 128.36 },
+        "teamId": 7,
+        "totalPoints": 128.36
+      },
+      "id": 1,
+      "matchupPeriodId": 1,
+      "winner": "HOME"
+    }
+  ],
+  "scoringPeriodId": 8,
+  "seasonId": 2021,
+  "segmentId": 0,
+  "status": {
+    "activatedDate": 1627579435175,
+    "createdAsLeagueType": 3,
+    "currentLeagueType": 0,
+    "currentMatchupPeriod": 8,
+    "finalScoringPeriod": 17,
+    "firstScoringPeriod": 1,
+    "isActive": true,
+    "isExpired": false,
+    "isFull": true,
+    "isPlayoffMatchupEdited": false,
+    "isToBeDeleted": false,
+    "isViewable": false,
+    "isWaiverOrderEdited": false,
+    "latestScoringPeriod": 8,
+    "previousSeasons": [],
+    "standingsUpdateDate": 1635753039479,
+    "teamsJoined": 10,
+    "transactionScoringPeriod": 8,
+    "waiverLastExecutionDate": 1635753039401,
+    "waiverProcessStatus": {
+      "2021-09-09T07:18:08.924+0000": 1,
+      "2021-09-15T07:51:28.734+0000": 3,
+      "2021-09-22T07:04:27.801+0000": 3,
+      "2021-09-29T07:33:47.053+0000": 4,
+      "2021-10-06T08:05:09.400+0000": 6,
+      "2021-10-08T07:23:40.473+0000": 1,
+      "2021-10-13T08:06:44.431+0000": 8,
+      "2021-10-20T08:26:40.526+0000": 6,
+      "2021-10-27T07:36:13.262+0000": 5
+    }
+  },
+  "teams": [
+    {
+      "id": 1,
+      "roster": {
+        "appliedStatTotal": 265.34000000000003,
+        "entries": [
+          {
+            "acquisitionDate": 1631059770077,
+            "acquisitionType": "DRAFT",
+            "injuryStatus": "NORMAL",
+            "lineupSlotId": 21,
+            "pendingTransactionIds": null,
+            "playerId": 3117251,
+            "playerPoolEntry": {
+              "appliedStatTotal": 0.0,
+              "id": 3117251,
+              "keeperValue": 0,
+              "keeperValueFuture": 1,
+              "lineupLocked": true,
+              "onTeamId": 1,
+              "player": {
+                "active": true,
+                "defaultPositionId": 2,
+                "droppable": true,
+                "eligibleSlots": [],
+                "firstName": "Christian",
+                "fullName": "Christian McCaffrey",
+                "id": 3117251,
+                "injured": true,
+                "injuryStatus": "INJURY_RESERVE",
+                "lastName": "McCaffrey",
+                "lastNewsDate": 1635697791000,
+                "proTeamId": 29,
+                "rankings": {
+                  "0": [
+                    {
+                      "auctionValue": 0,
+                      "rank": 1,
+                      "rankSourceId": 7,
+                      "rankType": "STANDARD",
+                      "slotId": 2
+                    }
+                  ],
+                  "1": [
+                    {
+                      "auctionValue": 0,
+                      "rank": 2,
+                      "rankSourceId": 7,
+                      "rankType": "STANDARD",
+                      "slotId": 2
+                    }
+                  ],
+                  "2": [
+                    {
+                      "auctionValue": 0,
+                      "rank": 3,
+                      "rankSourceId": 7,
+                      "rankType": "STANDARD",
+                      "slotId": 2
+                    }
+                  ],
+                  "3": [
+                    {
+                      "auctionValue": 0,
+                      "rank": 50,
+                      "rankSourceId": 6,
+                      "rankType": "PPR",
+                      "slotId": 2
+                    }
+                  ],
+                  "5": [],
+                  "6": []
+                },
+                "universeId": 2
+              },
+              "rosterLocked": true,
+              "status": "ONTEAM",
+              "tradeLocked": false
+            },
+            "status": "NORMAL"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "gameId": 1,
+  "id": 684262176,
+  "members": [
+    {
+      "displayName": "Barris66",
+      "id": "{0FEC92D7-F092-4087-AC92-D7F092408755}",
+      "isLeagueManager": false
+    }
+  ],
+  "scoringPeriodId": 8,
+  "seasonId": 2021,
+  "segmentId": 0,
+  "settings": { "name": "Slamma Jamma Football" },
+  "status": {
+    "currentMatchupPeriod": 8,
+    "isActive": true,
+    "latestScoringPeriod": 8
+  },
+  "teams": [
+    {
+      "abbrev": "NOWA",
+      "id": 1,
+      "location": "Christian",
+      "nickname": "Mingle",
+      "owners": []
+    }
+  ]
+}

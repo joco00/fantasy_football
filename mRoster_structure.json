@@ -1,0 +1,187 @@
+{
+  "draftDetail": { "drafted": true, "inProgress": false },
+  "gameId": 1,
+  "id": 684262176,
+  "scoringPeriodId": 8,
+  "seasonId": 2021,
+  "segmentId": 0,
+  "status": {
+    "activatedDate": 1627579435175,
+    "createdAsLeagueType": 3,
+    "currentLeagueType": 0,
+    "currentMatchupPeriod": 8,
+    "finalScoringPeriod": 17,
+    "firstScoringPeriod": 1,
+    "isActive": true,
+    "isExpired": false,
+    "isFull": true,
+    "isPlayoffMatchupEdited": false,
+    "isToBeDeleted": false,
+    "isViewable": false,
+    "isWaiverOrderEdited": false,
+    "latestScoringPeriod": 8,
+    "previousSeasons": [],
+    "standingsUpdateDate": 1635753039479,
+    "teamsJoined": 10,
+    "transactionScoringPeriod": 8,
+    "waiverLastExecutionDate": 1635753039401,
+    "waiverProcessStatus": {
+      "2021-09-09T07:18:08.924+0000": 1,
+      "2021-09-15T07:51:28.734+0000": 3,
+      "2021-09-22T07:04:27.801+0000": 3,
+      "2021-09-29T07:33:47.053+0000": 4,
+      "2021-10-06T08:05:09.400+0000": 6,
+      "2021-10-08T07:23:40.473+0000": 1,
+      "2021-10-13T08:06:44.431+0000": 8,
+      "2021-10-20T08:26:40.526+0000": 6,
+      "2021-10-27T07:36:13.262+0000": 5
+    }
+  },
+  "teams": [
+    {
+      "id": 1,
+      "roster": {
+        "appliedStatTotal": 265.34000000000003,
+        "entries": [
+          {
+            "acquisitionDate": 1631059770077,
+            "acquisitionType": "DRAFT",
+            "injuryStatus": "NORMAL",
+            "lineupSlotId": 21,
+            "pendingTransactionIds": null,
+            "playerId": 3117251,
+            "playerPoolEntry": {
+              "appliedStatTotal": 0.0,
+              "id": 3117251,
+              "keeperValue": 0,
+              "keeperValueFuture": 1,
+              "lineupLocked": true,
+              "onTeamId": 1,
+              "player": {
+                "active": true,
+                "defaultPositionId": 2,
+                "draftRanksByRankType": {
+                  "STANDARD": {
+                    "auctionValue": 59,
+                    "published": false,
+                    "rank": 1,
+                    "rankSourceId": 0,
+                    "rankType": "STANDARD",
+                    "slotId": 0
+                  },
+                  "PPR": {
+                    "auctionValue": 59,
+                    "published": false,
+                    "rank": 1,
+                    "rankSourceId": 0,
+                    "rankType": "PPR",
+                    "slotId": 0
+                  }
+                },
+                "droppable": true,
+                "eligibleSlots": [],
+                "firstName": "Christian",
+                "fullName": "Christian McCaffrey",
+                "id": 3117251,
+                "injured": true,
+                "injuryStatus": "INJURY_RESERVE",
+                "lastName": "McCaffrey",
+                "lastNewsDate": 1635697791000,
+                "outlooks": {
+                  "outlooksByWeek": {
+                    "1": "McCaffrey produced at a prodigious rate in the three games in which he appeared last season. Despite a change at quarterback in Carolina, expecting his role and level of production to fall outside of fantasy RB1 territory -- including against the Jets Week 1 -- would be overthinking things way too much.",
+                    "2": "McCaffrey rushed for 98 yards and added nine receptions for 89 yards in Week 1. Any concerns that CMC's usage would be scaled back surely should be alleviated after seeing him  get his usual massive rushing and receiving volume. McCaffrey is matchup-proof and projects as the top running back this week, as he likely will most weeks in 2021.",
+                    "3": "Coming off another high-end performance, with 29 touches, 137 scrimmage yards and a touchdown, McCaffrey remains the top prospect at his position. Can he do better? Expecting an even stronger performance against the Texans in Week 3 isn't unreasonable.",
+                    "4": "McCaffrey will miss Week 4 with a hamstring strain. The Panthers are hopeful he'll be able to return within three weeks, so McCaffrey has not been placed on the IR.",
+                    "6": "A sore hamstring has sidelined McCaffrey since Week 3, but the Panthers are optimistic he\u2019ll return for Week 6\u2019s visit from the Vikings. Assuming he plays, McCaffrey remains a must start with RB1 status facing Minnesota defense allowing the 10th most points per game to running backs.",
+                    "7": "McCaffrey, who had missed the previous two games with a hamstring injury, was placed on IR on Saturday in advance of the Panthers' Week 6 loss to the Vikings. McCaffrey is eligible to return as early as Week 9, but his injured hamstring will have a vote there, too. Fantasy managers should stash him in any kind of reserve spots their league offers and monitor his progress in coming weeks."
+                  }
+                },
+                "ownership": {
+                  "auctionValueAverage": 28.976744186046513,
+                  "averageDraftPosition": 14.090487955528104,
+                  "percentChange": -0.2575517742072151,
+                  "percentOwned": 99.10255208089143,
+                  "percentStarted": 13.086642599277978
+                },
+                "proTeamId": 29,
+                "rankings": {
+                  "0": [
+                    {
+                      "auctionValue": 0,
+                      "published": true,
+                      "rank": 1,
+                      "rankSourceId": 7,
+                      "rankType": "STANDARD",
+                      "slotId": 2
+                    }
+                  ],
+                  "1": [
+                    {
+                      "auctionValue": 0,
+                      "published": true,
+                      "rank": 2,
+                      "rankSourceId": 7,
+                      "rankType": "STANDARD",
+                      "slotId": 2
+                    }
+                  ],
+                  "2": [
+                    {
+                      "auctionValue": 0,
+                      "published": true,
+                      "rank": 3,
+                      "rankSourceId": 7,
+                      "rankType": "STANDARD",
+                      "slotId": 2
+                    }
+                  ],
+                  "3": [
+                    {
+                      "auctionValue": 0,
+                      "published": true,
+                      "rank": 50,
+                      "rankSourceId": 6,
+                      "rankType": "PPR",
+                      "slotId": 2
+                    }
+                  ],
+                  "5": [],
+                  "6": []
+                },
+                "seasonOutlook": "McCaffrey was limited to three games during an injury-plagued 2020, but the 25-year-old is well-positioned for a big bounceback this season. McCaffrey was fantasy's No. 2-scoring RB in 2018 before scoring an absurd 156 more points than any other back in 2019. He was on track for another dominant campaign last season, scoring exactly two TDs while posting 25-plus fantasy points in all three of his appearances. Even after the lost season, McCaffrey is one of the league's few remaining every-down backs and will benefit from Matt Rhule and Joe Brady's RB-friendly offense. McCaffrey is a candidate for 400 touches and locked in as the top asset in fantasy football.",
+                "stats": [
+                  {
+                    "appliedStats": {},
+                    "appliedTotal": 0.0,
+                    "externalId": "20218",
+                    "id": "1120218",
+                    "proTeamId": 0,
+                    "scoringPeriodId": 8,
+                    "seasonId": 2021,
+                    "statSourceId": 1,
+                    "statSplitTypeId": 1,
+                    "stats": {}
+                  }
+                ],
+                "universeId": 2
+              },
+              "ratings": {
+                "0": {
+                  "positionalRanking": 41,
+                  "totalRanking": 173,
+                  "totalRating": 58.399998
+                }
+              },
+              "rosterLocked": true,
+              "status": "ONTEAM",
+              "tradeLocked": false
+            },
+            "status": "NORMAL"
+          }
+        ],
+        "tradeReservedEntries": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "position_id": {
+    "1": "quaterback",
+    "2": "runningback",
+    "3": "widereceiver",
+    "4": "tightend",
+    "5": "kicker",
+    "16": "defense"
+  },
+  "view_enpoints": [
+    "mMatchup",
+    "mBoxscore",
+    "mRoster",
+    "mSettings",
+    "kona_player_info",
+    "player_wl",
+    "mSchedule"
+  ],
+  "slot_codess": {
+    "0": "QB",
+    "2": "RB",
+    "4": "WR",
+    "6": "TE",
+    "16": "Def",
+    "17": "K",
+    "20": "Bench",
+    "21": "IR",
+    "23": "Flex"
+  }
+}
